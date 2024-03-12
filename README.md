@@ -1,6 +1,13 @@
 # azure-devops-wiki
 An asynchronous azure devops wiki crawler.
 
+## Prerequisites
+* Python 3.x
+
+* Install aiohttp as http client:
+`pip install aiohttp`
+
+
 ## Examples
 
 Here are a few examples to help you get started with the Azure DevOps Wiki Crawler:
