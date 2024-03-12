@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "azure-devops-wiki-crawler"
+version = "0.1.0"
+description = "A simple, asynchronous crawler/client for azure devops wikis"
+authors = ["Maximilian Kusterer"]
+license = "Apache-2.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+aiohttp = "^3.9.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

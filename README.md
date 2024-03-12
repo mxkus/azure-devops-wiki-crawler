@@ -7,6 +7,10 @@ An asynchronous azure devops wiki crawler.
 * Install aiohttp as http client:
 `pip install aiohttp`
 
+or
+
+`poetry install`
+
 
 ## Examples
 
