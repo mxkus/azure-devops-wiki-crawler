@@ -11,6 +11,7 @@ or
 
 `poetry install`
 
+* An azure devops PAT: https://learn.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=Windows
 
 ## Examples
 
